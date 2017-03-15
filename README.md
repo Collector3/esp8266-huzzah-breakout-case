@@ -30,6 +30,11 @@ Material: PLA (Ultimachine Purple Translucent + Prusa Yellow PLA + Atomic Filame
 
 Printer: i3 MK2
 
+### Updates
+
+2017-03-15: Increased the size of the header cutout and made the asterisk cutout a bit sturdier.
+
+
 # Elsewhere
 
 [YouMagine](https://www.youmagine.com/designs/case-enclosure-for-adafruit-s-esp8266-breakout-board)
