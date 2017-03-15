@@ -1,6 +1,8 @@
 # ESP8266 Huzzah Breakout Case / Enclosure
 
-Case / Enclosure for the ESP8266 Huzzah breakout board (non-Feather) manufactured by Adafruit.
+A case / enclosure for the ESP8266 Huzzah breakout board (non-Feather) manufactured by Adafruit.
+
+![case photo](https://github.com/Collector3/esp8266-huzzah-breakout-case/raw/master/IMG_20170314_144713.jpg)
 
 # Details
 
