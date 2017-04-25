@@ -26,7 +26,7 @@ There are two covers to keep things somewhat clean. Both are press-fit, with the
 
 * 0.48 extrusion width
 
-Material: PLA (Ultimachine Purple Translucent + Prusa Yellow PLA + Atomic Filament Gemstone Ruby Red)
+Material: PLA (Ultimachine Purple Translucent + Prusa Yellow PLA, OEM: [Plasty Mladec](http://www.plastymladec.cz/) Yellow filament + Atomic Filament Gemstone Ruby Red)
 
 Printer: i3 MK2
 
