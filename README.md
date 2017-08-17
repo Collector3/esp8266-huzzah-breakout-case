@@ -32,6 +32,8 @@ Printer: i3 MK2
 
 ### Updates
 
+2017-08-17: Added a case with slots for bottom side headers.
+
 2017-03-15: Increased the size of the header cutout and made the asterisk cutout a bit sturdier.
 
 
